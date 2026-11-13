@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+<title id="title">Pravin Salame — Software Developer</title><desc id="desc">Modern dark technology banner featuring React, mobile development, backend engineering and AI.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#172b46"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#61dafb"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8bb4d8" stroke-opacity=".09"/></pattern></defs>
+<rect width="1500" height="500" rx="30" fill="url(#bg)"/><rect width="1500" height="500" rx="30" fill="url(#grid)"/>
+<circle cx="1260" cy="80" r="250" fill="#3b82f6" opacity=".10"/><circle cx="1350" cy="420" r="260" fill="#a78bfa" opacity=".10"/>
+<g fill="none" stroke="url(#glow)" stroke-width="2" opacity=".55"><path d="M920 70h130l45 45h170"/><path d="M1020 190h100l50-50h190"/><path d="M950 340h170l45-45h150"/><path d="M1180 60v75m80 80v90m-170 35v80"/></g>
+<g fill="#61dafb"><circle cx="920" cy="70" r="5"/><circle cx="1265" cy="115" r="5"/><circle cx="1360" cy="140" r="5"/><circle cx="950" cy="340" r="5"/></g>
+<g transform="translate(1070 145)"><rect width="260" height="190" rx="26" fill="#0b1728" stroke="#7dd3fc" stroke-opacity=".55"/><rect x="18" y="18" width="224" height="154" rx="16" fill="#10243b"/><path d="M72 64l-30 30 30 30M188 64l30 30-30 30M151 52l-30 84" fill="none" stroke="url(#glow)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="100" y="190" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="750" letter-spacing="-2">PRAVIN SALAME</text>
+<text x="104" y="250" fill="#93c5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="600" letter-spacing="3">SOFTWARE DEVELOPER • PRODUCT BUILDER</text>
+<text x="104" y="315" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">React.js  /  React Native  /  Node.js  /  AI</text>
+<text x="104" y="385" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Building useful web, mobile &amp; AI-powered experiences</text>
+<rect x="100" y="425" width="110" height="5" rx="3" fill="url(#glow)"/>
+</svg>
