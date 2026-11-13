@@ -89,8 +89,6 @@ My personal space to showcase development experience, technical projects and exp
 </p>
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PravinSalame84&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 📈 Contribution Activity
