@@ -108,7 +108,7 @@ My personal space to showcase development experience, technical projects and exp
 I'm always interested in connecting with developers, entrepreneurs, businesses and people building useful technology.
 
 - GitHub: https://github.com/PravinSalame84
-- Portfolio: https://github.com/PravinSalame84/pravinsalame84/edit/main/README.md
+- Portfolio: [https://github.com/PravinSalame84/pravinsalame84/edit/main/README.md](https://github.com/PravinSalame84/pravinsalame84/blob/main/README.md)
 - LinkedIn: https://www.linkedin.com/in/pravin-s-7409a280/overlay/contact-info/
 - Email: pravinsalamengp@gmail.com
 
