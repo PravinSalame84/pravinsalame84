@@ -5,7 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PravinSalame84/pravinsalame84/main/assets/profile-photo.jpg" width="140" alt="Pravin Salame profile photo" />
   <h1>Hi, I'm Pravin Salame 👋</h1>
   <h3>Software Developer · Product Builder · AI Explorer</h3>
   <p><b>I build practical web, mobile and AI-powered experiences that solve real-world problems.</b></p>
@@ -60,7 +59,7 @@ I'm a software developer interested in building clean, useful and reliable digit
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔷 CremaxTech</h3>
+      <h3>🔷 <a href="https://cremaxtech.com">CremaxTech</a></h3>
       <p>My digital solutions initiative, focused on modern web experiences and practical software products.</p>
       <sub>React · JavaScript · UI/UX</sub>
     </td>
