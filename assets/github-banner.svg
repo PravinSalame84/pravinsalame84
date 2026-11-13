@@ -1,14 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
-<title id="title">Pravin Salame — Software Developer</title><desc id="desc">Modern dark technology banner featuring React, mobile development, backend engineering and AI.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#172b46"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#61dafb"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8bb4d8" stroke-opacity=".09"/></pattern></defs>
-<rect width="1500" height="500" rx="30" fill="url(#bg)"/><rect width="1500" height="500" rx="30" fill="url(#grid)"/>
-<circle cx="1260" cy="80" r="250" fill="#3b82f6" opacity=".10"/><circle cx="1350" cy="420" r="260" fill="#a78bfa" opacity=".10"/>
-<g fill="none" stroke="url(#glow)" stroke-width="2" opacity=".55"><path d="M920 70h130l45 45h170"/><path d="M1020 190h100l50-50h190"/><path d="M950 340h170l45-45h150"/><path d="M1180 60v75m80 80v90m-170 35v80"/></g>
-<g fill="#61dafb"><circle cx="920" cy="70" r="5"/><circle cx="1265" cy="115" r="5"/><circle cx="1360" cy="140" r="5"/><circle cx="950" cy="340" r="5"/></g>
-<g transform="translate(1070 145)"><rect width="260" height="190" rx="26" fill="#0b1728" stroke="#7dd3fc" stroke-opacity=".55"/><rect x="18" y="18" width="224" height="154" rx="16" fill="#10243b"/><path d="M72 64l-30 30 30 30M188 64l30 30-30 30M151 52l-30 84" fill="none" stroke="url(#glow)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
-<text x="100" y="190" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="750" letter-spacing="-2">PRAVIN SALAME</text>
-<text x="104" y="250" fill="#93c5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="600" letter-spacing="3">SOFTWARE DEVELOPER • PRODUCT BUILDER</text>
-<text x="104" y="315" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">React.js  /  React Native  /  Node.js  /  AI</text>
-<text x="104" y="385" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Building useful web, mobile &amp; AI-powered experiences</text>
-<rect x="100" y="425" width="110" height="5" rx="3" fill="url(#glow)"/>
+<title id="title">Pravin Salame — Software Developer and Product Builder</title>
+<desc id="desc">Animated dark technology banner with glowing blue, violet and orange accents, React, React Native, Node.js and AI themes.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#10132d"/><stop offset="1" stop-color="#071b2c"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".52" stop-color="#8b5cf6"/><stop offset="1" stop-color="#fb923c"/></linearGradient>
+  <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff"/><stop offset=".65" stop-color="#dbeafe"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#9db5ff" stroke-opacity=".08"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  .orbit{animation:orbit 18s linear infinite;transform-origin:1250px 250px}
+  .pulse{animation:pulse 3s ease-in-out infinite}
+  .flow{stroke-dasharray:12 18;animation:flow 12s linear infinite}
+  .float{animation:float 5s ease-in-out infinite}
+  @keyframes orbit{to{transform:rotate(360deg)}}
+  @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+  @keyframes flow{to{stroke-dashoffset:-240}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+</style>
+<rect width="1500" height="500" rx="28" fill="url(#bg)"/>
+<rect width="1500" height="500" rx="28" fill="url(#grid)"/>
+<circle cx="1260" cy="245" r="245" fill="#4f46e5" opacity=".12"/>
+<circle cx="1260" cy="245" r="190" fill="none" stroke="url(#neon)" stroke-opacity=".28" stroke-width="2" class="orbit"/>
+<circle cx="1260" cy="245" r="145" fill="none" stroke="#22d3ee" stroke-opacity=".16" stroke-dasharray="4 14" class="orbit"/>
+<g fill="none" stroke="url(#neon)" stroke-width="2.5" opacity=".72" filter="url(#glow)">
+  <path class="flow" d="M850 80h145l42 42h175M920 390h150l45-45h185M1080 70v80l40 40h180"/>
+  <path class="flow" d="M890 270h120l48-48h180"/>
+</g>
+<g fill="#67e8f9" class="pulse"><circle cx="850" cy="80" r="5"/><circle cx="1212" cy="122" r="5"/><circle cx="1395" cy="122" r="5"/><circle cx="920" cy="390" r="5"/></g>
+<g class="float" transform="translate(1090 125)" filter="url(#glow)">
+  <rect width="250" height="205" rx="28" fill="#0a1428" stroke="url(#neon)" stroke-width="3"/>
+  <rect x="17" y="17" width="216" height="171" rx="18" fill="#111e39" stroke="#64748b" stroke-opacity=".35"/>
+  <path d="M83 72l-34 30 34 30M167 72l34 30-34 30M146 58l-37 88" fill="none" stroke="url(#neon)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="125" cy="10" r="4" fill="#22d3ee" class="pulse"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="88" y="182" fill="url(#titleGrad)" font-size="70" font-weight="800" letter-spacing="-2">PRAVIN SALAME</text>
+  <text x="94" y="245" fill="#fbbf24" font-size="27" font-weight="700">React.js  |  React Native  |  Node.js  |  AI Developer</text>
+  <text x="94" y="302" fill="#e2e8f0" font-size="24">Building useful software &amp; AI-powered products that solve real problems.</text>
+  <text x="94" y="380" fill="#a5b4fc" font-size="21">FRONTEND ENGINEERING  •  MOBILE APPS  •  INTELLIGENT AUTOMATION</text>
+  <rect x="94" y="418" width="230" height="5" rx="3" fill="url(#neon)"/>
+  <rect x="94" y="418" width="75" height="5" rx="3" fill="#fff" opacity=".75" class="pulse"/>
+</g>
+<g class="pulse" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#c4b5fd">
+  <text x="1120" y="390">BUILD • LEARN • SHIP</text>
+</g>
 </svg>
