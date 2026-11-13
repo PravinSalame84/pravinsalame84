@@ -109,7 +109,7 @@ I'm always interested in connecting with developers, entrepreneurs, businesses a
 
 - GitHub: https://github.com/PravinSalame84
 - Portfolio: [https://github.com/PravinSalame84/pravinsalame84/edit/main/README.md](https://github.com/PravinSalame84/pravinsalame84/blob/main/README.md)
-- LinkedIn: https://www.linkedin.com/in/pravin-s-7409a280/overlay/contact-info/
+- LinkedIn: [https://www.linkedin.com/in/pravin-s-7409a280/overlay/contact-info/](https://www.linkedin.com/in/pravin-s-7409a280/)
 - Email: pravinsalamengp@gmail.com
 
 **Let's build something meaningful together! 🚀**
