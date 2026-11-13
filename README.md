@@ -87,6 +87,27 @@
 - Practical AI tools and automation for everyday workflows
 - Building and launching independent software products
 
+## 🛠️ Things I'm Working On
+
+- 🚀 Strengthening my expertise in **frontend engineering and cross-platform mobile app development**.
+- 🔍 Exploring **AI/ML integrations in Android applications**, including practical on-device and offline-first experiences.
+- 🧠 Experimenting with AI-powered tools, intelligent automation and speech-to-text workflows.
+- ⚙️ Improving my **Node.js backend, API design and database** skills to build complete end-to-end products.
+- 📘 Creating developer guides, troubleshooting handbooks and tutorials to share practical knowledge with the community.
+- 🌍 Building useful digital products with a focus on real-world problems and global users.
+
+---
+
+## ✨ Fun Facts
+
+- 🚴‍♂️ When I'm away from the keyboard, I enjoy **cycling, exploring nature and listening to music**.
+- 🎵 I love creating personalized playlists to match different moods and moments.
+- 📚 I'm always curious about emerging technologies and enjoy learning something new.
+- 💡 I like turning everyday problems and interesting ideas into small software experiments.
+- ☕ I believe good code, continuous learning and a little curiosity go a long way.
+
+---
+
 ## 🤝 Let's Connect
 
 - **GitHub:** [PravinSalame84](https://github.com/PravinSalame84)
