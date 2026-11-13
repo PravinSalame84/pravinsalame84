@@ -79,9 +79,15 @@ My personal space to showcase development experience, technical projects and exp
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PravinSalame84&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PravinSalame84&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravinSalame84&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PravinSalame84&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PravinSalame84&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PravinSalame84&theme=tokyonight&hide_border=true)
 
@@ -89,7 +95,9 @@ My personal space to showcase development experience, technical projects and exp
 
 ### 📈 Contribution Activity
 
-![Contribution Graph]([https://github-readme-activity-graph.vercel.app/graph?username=PravinSalame84&theme=tokyo-night&hide_border=true](https://chatgpt.com/c/6af5bd24-5300-83ec-87b5-3771f0c7851f))
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PravinSalame84&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
