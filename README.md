@@ -3,9 +3,19 @@
   <img src="https://raw.githubusercontent.com/PravinSalame84/pravinsalame84/main/assets/github-banner.svg" width="100%" alt="Pravin Salame — Software Developer and Product Builder"/>
 </p>
 
-<h1 align="center">Hi, I'm Pravin Salame 👋</h1>
-<h3 align="center">Software Developer · Product Builder · AI Explorer</h3>
-<p align="center"><strong>React.js | React Native | Vue.js | JavaScript | Node.js | AI</strong><br/>Building useful software and AI-powered products that solve real-world problems.</p>
+<table>
+<tr>
+<td width="24%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/PravinSalame84/pravinsalame84/main/assets/profile-photo.jpg" width="160" alt="Pravin Salame profile photo" style="border-radius:50%;"/>
+</td>
+<td width="76%" valign="middle">
+  <h1>Hi, I'm Pravin Salame 👋</h1>
+  <h3>Software Developer · Product Builder · AI Explorer</h3>
+  <strong>React.js | React Native | Vue.js | JavaScript | Node.js | AI</strong><br/>
+  Building useful software and AI-powered products that solve real-world problems.
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/PravinSalame84"><img src="https://img.shields.io/badge/GitHub-PravinSalame84-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
